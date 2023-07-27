@@ -4,6 +4,10 @@ authors = ["Jakub Zajkowski <ja.zajko@gmail.com>"]
 version = "0.1.0"
 edition = "2021"
 readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/zajko/minimal-example"
+# documentation = ""
+# homepage = ""
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
