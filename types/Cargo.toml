@@ -6,6 +6,7 @@ edition = "2021"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/zajko/minimal-example"
+description = "Types for dummy library which I did to check out the release process"
 # documentation = ""
 # homepage = ""
 
